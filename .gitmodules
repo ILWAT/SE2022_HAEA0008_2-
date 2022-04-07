@@ -19,3 +19,6 @@
 [submodule "ATHAM"]
 	path = ATHAM
 	url = https://github.com/HYERINI/ATHAM
+[submodule "software_Project"]
+	path = software_Project
+	url = https://github.com/TheDaum/software_Project
