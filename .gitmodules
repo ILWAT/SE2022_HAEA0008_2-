@@ -1,0 +1,21 @@
+[submodule "Sw-Engineering-Project"]
+	path = Sw-Engineering-Project
+	url = https://github.com/cheon4050/Sw-Engineering-Project
+[submodule "SE2022-Team3"]
+	path = SE2022-Team3
+	url = https://github.com/SunEom/SE2022-Team3
+[submodule "Software-Engineering"]
+	path = Software-Engineering
+	url = https://github.com/melbua/Software-Engineering
+[submodule "SoftwareEngineering2022"]
+	path = SoftwareEngineering2022
+	url = https://github.com/PMtHk/SoftwareEngineering2022
+[submodule "SE2022-TEAM8"]
+	path = SE2022-TEAM8
+	url = https://github.com/201911022/SE2022-TEAM8
+[submodule "SE2022-Team5"]
+	path = SE2022-Team5
+	url = https://github.com/galug/SE2022-Team5
+[submodule "ATHAM"]
+	path = ATHAM
+	url = https://github.com/HYERINI/ATHAM
